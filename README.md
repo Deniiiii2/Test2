@@ -9,5 +9,5 @@
 После открытия программы - следуйте инструкции
 ## Тест программы!!
 [image](https://user-images.githubusercontent.com/113837843/192880604-6d40e137-8489-4974-ad9b-0241b33f629e.png)
-![image](https://user-images.githubusercontent.com/113837843/192880720-e602f56e-a875-40c1-94c1-dec76ef467f6.png)
+[image](https://user-images.githubusercontent.com/113837843/192880720-e602f56e-a875-40c1-94c1-dec76ef467f6.png)
 
