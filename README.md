@@ -8,6 +8,7 @@
 Программа была создана на языке Pyton 3.10 ( Интегрированная среда разработки - PyCharm)
 После открытия программы - следуйте инструкции
 ## Тест программы!!
-[image](https://user-images.githubusercontent.com/113837843/192880604-6d40e137-8489-4974-ad9b-0241b33f629e.png)
-[image](https://user-images.githubusercontent.com/113837843/192880720-e602f56e-a875-40c1-94c1-dec76ef467f6.png)
 
+![pZIYGOi8T7lyUXB46Ub_LwdaqFL0svd9Xgk5ISvAQ0z8cv18jUGYEJ-KxQIrAT3QC0zccX2yg_XNH4GKS59yvEyq](https://user-images.githubusercontent.com/113837843/192881381-110578a1-7960-42c3-80f5-ba6b5033c593.jpg)
+
+![2](https://user-images.githubusercontent.com/113837843/192881522-8367b790-e288-46b3-8e75-b8fc00ead080.jpg)
