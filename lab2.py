@@ -2,7 +2,7 @@ ru = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЭЮЯ'*1000000
 eu = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'*10000000
 message=input('Введите текст ЗАГЛАВНЫМИ буквами Русского или Английского алфавита: ')
 lang=input('Введите язык RU или EU: ')
-number=int(input('Введите шаг сдвига (не более 10000) '))
+number=int(input('Введите шаг сдвига (не более 1000000) '))
 d = ''
 if lang == 'RU':
     for i in message:
